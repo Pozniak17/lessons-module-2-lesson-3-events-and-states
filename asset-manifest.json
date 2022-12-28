@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/lessons-module-2-lesson-3-events-and-states/static/css/main.7acaea2f.css",
-    "main.js": "/lessons-module-2-lesson-3-events-and-states/static/js/main.07d3183d.js",
+    "main.css": "/lessons-module-2-lesson-3-events-and-states/static/css/main.c3d5249d.css",
+    "main.js": "/lessons-module-2-lesson-3-events-and-states/static/js/main.63679f70.js",
     "index.html": "/lessons-module-2-lesson-3-events-and-states/index.html",
-    "main.7acaea2f.css.map": "/lessons-module-2-lesson-3-events-and-states/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/lessons-module-2-lesson-3-events-and-states/static/js/main.07d3183d.js.map"
+    "main.c3d5249d.css.map": "/lessons-module-2-lesson-3-events-and-states/static/css/main.c3d5249d.css.map",
+    "main.63679f70.js.map": "/lessons-module-2-lesson-3-events-and-states/static/js/main.63679f70.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.c3d5249d.css",
+    "static/js/main.63679f70.js"
   ]
 }
